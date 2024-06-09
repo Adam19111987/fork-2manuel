@@ -26,3 +26,8 @@ hr {
   -ms-border-radius: 10px;
   -o-border-radius: 10px;
 }
+.imagen-perfil img{
+  height: 150px;
+  width: 150px;
+  
+}
